@@ -1,2 +1,1 @@
 # csgo-configs
-# csgo-configs
